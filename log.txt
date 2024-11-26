@@ -1,0 +1,124 @@
+[Fri Nov 22 10:20:52 2024] Application started.
+[Fri Nov 22 10:20:57 2024] Starting server...
+[Fri Nov 22 10:20:57 2024] Socket created successfully.
+[Fri Nov 22 10:20:57 2024] ERROR: setsockopt failed.
+[Fri Nov 22 10:20:57 2024] Application exiting.
+[Fri Nov 22 21:28:09 2024] Application started.
+[Fri Nov 22 21:28:10 2024] Application started.
+[Fri Nov 22 21:28:17 2024] Starting server...
+[Fri Nov 22 21:28:17 2024] Socket created successfully.
+[Fri Nov 22 21:28:17 2024] ERROR: setsockopt failed.
+[Fri Nov 22 21:28:17 2024] Application exiting.
+[Fri Nov 22 21:33:38 2024] Application started.
+[Fri Nov 22 21:33:42 2024] Starting server...
+[Fri Nov 22 21:33:42 2024] Socket created successfully.
+[Fri Nov 22 21:33:42 2024] Socket bound to port.
+[Fri Nov 22 21:33:42 2024] Server is listening on port 8080...
+[Fri Nov 22 21:35:46 2024] Application started.
+[Fri Nov 22 21:35:49 2024] Starting client...
+[Fri Nov 22 21:35:49 2024] Socket created successfully.
+[Fri Nov 22 21:35:49 2024] Connected to server.
+[Fri Nov 22 21:35:49 2024] Message sent to server: Hello from client
+[Fri Nov 22 21:35:49 2024] Client connected.
+[Fri Nov 22 21:35:49 2024] Message received from client: Hello from client
+[Fri Nov 22 21:35:49 2024] Response sent to client.
+[Fri Nov 22 21:35:49 2024] Message received from server: Hello from server
+[Fri Nov 22 21:35:49 2024] Server closed connection.
+[Fri Nov 22 21:35:49 2024] Client closed connection.
+[Fri Nov 22 21:35:49 2024] Application exiting.
+[Fri Nov 22 21:35:49 2024] Application exiting.
+[Fri Nov 22 21:50:54 2024] Application started.
+[Fri Nov 22 21:51:01 2024] Starting server...
+[Fri Nov 22 21:51:01 2024] Socket created successfully.
+[Fri Nov 22 21:51:01 2024] Socket bound to port.
+[Fri Nov 22 21:51:01 2024] Server is listening on port 8080...
+[Fri Nov 22 21:51:12 2024] Application started.
+[Fri Nov 22 21:51:13 2024] Starting client...
+[Fri Nov 22 21:51:13 2024] Socket created successfully.
+[Fri Nov 22 21:51:13 2024] Connected to server.
+[Fri Nov 22 21:51:13 2024] Message sent to server: Hello from client
+[Fri Nov 22 21:51:13 2024] Client connected.
+[Fri Nov 22 21:51:13 2024] Message received from client: Hello from client
+[Fri Nov 22 21:51:13 2024] Response sent to client.
+[Fri Nov 22 21:51:13 2024] Message received from server: Hello from server
+[Fri Nov 22 21:51:13 2024] Client connection closed.
+[Fri Nov 22 21:51:13 2024] Client closed connection.
+[Fri Nov 22 21:51:13 2024] Application exiting.
+[Fri Nov 22 21:52:47 2024] Application started.
+[Fri Nov 22 21:52:50 2024] Starting client...
+[Fri Nov 22 21:52:50 2024] Socket created successfully.
+[Fri Nov 22 21:52:50 2024] Connected to server.
+[Fri Nov 22 21:52:50 2024] Client connected.
+[Fri Nov 22 21:53:38 2024] Application started.
+[Fri Nov 22 21:53:40 2024] Starting client...
+[Fri Nov 22 21:53:40 2024] Socket created successfully.
+[Fri Nov 22 21:53:40 2024] Connected to server.
+[Fri Nov 22 21:53:40 2024] Client connected.
+[Fri Nov 22 21:58:01 2024] Application started.
+[Fri Nov 22 21:58:09 2024] Starting client 2...
+[Fri Nov 22 21:58:09 2024] Socket created successfully.
+[Fri Nov 22 21:58:09 2024] Client 2 connected to server.
+[Fri Nov 22 21:58:09 2024] Client 2 sent message to server: Random number: 44
+[Fri Nov 22 21:58:09 2024] Client connected.
+[Fri Nov 22 21:58:09 2024] Message received from client: Random number: 44
+[Fri Nov 22 21:58:09 2024] Response sent to client.
+[Fri Nov 22 21:58:09 2024] Client connection closed.
+[Fri Nov 22 21:58:09 2024] Client 2 received message from server: Hello from server
+[Fri Nov 22 21:58:10 2024] Client 2 sent message to server: Random number: 12
+[Fri Nov 22 21:58:28 2024] Application started.
+[Fri Nov 22 21:58:34 2024] Starting client 1...
+[Fri Nov 22 21:58:34 2024] Socket created successfully.
+[Fri Nov 22 21:58:34 2024] Client 1 connected to server.
+[Fri Nov 22 21:58:34 2024] Client connected.
+[Fri Nov 22 21:58:54 2024] Application started.
+[Fri Nov 22 21:59:08 2024] Starting client 2...
+[Fri Nov 22 21:59:08 2024] Socket created successfully.
+[Fri Nov 22 21:59:08 2024] Client 2 connected to server.
+[Fri Nov 22 21:59:08 2024] Client connected.
+[Fri Nov 22 21:59:08 2024] Client 2 sent message to server: Random number: 57
+[Fri Nov 22 21:59:08 2024] Message received from client: Random number: 57
+[Fri Nov 22 21:59:08 2024] Response sent to client.
+[Fri Nov 22 21:59:08 2024] Client connection closed.
+[Fri Nov 22 21:59:08 2024] Client 2 received message from server: Hello from server
+[Fri Nov 22 21:59:09 2024] Client 2 sent message to server: Random number: 27
+[Fri Nov 22 21:59:29 2024] Application started.
+[Fri Nov 22 21:59:33 2024] Starting client 3...
+[Fri Nov 22 21:59:33 2024] Socket created successfully.
+[Fri Nov 22 21:59:33 2024] Client 3 connected to server.
+[Fri Nov 22 21:59:33 2024] Client 3 sent message to server: Current timestamp: Fri Nov 22 21:59:33 2024
+[Fri Nov 22 21:59:33 2024] Client connected.
+[Fri Nov 22 21:59:33 2024] Message received from client: Current timestamp: Fri Nov 22 21:59:33 2024
+[Fri Nov 22 21:59:33 2024] Response sent to client.
+[Fri Nov 22 21:59:33 2024] Client 3 received message from server: Hello from server
+[Fri Nov 22 21:59:33 2024] Client connection closed.
+[Fri Nov 22 21:59:35 2024] Client 3 sent message to server: Current timestamp: Fri Nov 22 21:59:35 2024
+[Fri Nov 22 22:00:44 2024] Application started.
+[Fri Nov 22 22:00:47 2024] Starting server...
+[Fri Nov 22 22:00:47 2024] Socket created successfully.
+[Fri Nov 22 22:00:47 2024] ERROR: Bind failed. Error code: 48
+[Fri Nov 22 22:00:47 2024] Application exiting.
+[Mon Nov 25 20:44:23 2024] Application started.
+[Mon Nov 25 20:44:32 2024] Server thread started.
+[Mon Nov 25 20:44:32 2024] Starting server...
+[Mon Nov 25 20:44:32 2024] Socket created successfully.
+[Mon Nov 25 20:44:32 2024] Socket bound to port.
+[Mon Nov 25 20:44:32 2024] Server is listening on port 8080...
+[Mon Nov 25 20:44:39 2024] Client thread started.
+[Mon Nov 25 20:44:39 2024] Starting client 2...
+[Mon Nov 25 20:44:39 2024] Socket created successfully.
+[Mon Nov 25 20:44:39 2024] Client 2 connected to server.
+[Mon Nov 25 20:44:39 2024] Client 2 sent message to server: Hello from client 2
+[Mon Nov 25 20:44:39 2024] Client connected.
+[Mon Nov 25 20:44:39 2024] Message received from client: Hello from client 2
+[Mon Nov 25 20:44:39 2024] Response sent to client.
+[Mon Nov 25 20:44:39 2024] Client 2 received message from server: Hello from server
+[Mon Nov 25 20:44:39 2024] Client 2 closed connection.
+[Mon Nov 25 20:44:39 2024] Client disconnected.
+[Mon Nov 25 20:44:39 2024] Client connection closed.
+[Mon Nov 25 20:45:05 2024] Application started.
+[Mon Nov 25 20:45:14 2024] Client thread started.
+[Mon Nov 25 20:45:14 2024] Starting client 3...
+[Mon Nov 25 20:45:14 2024] Socket created successfully.
+[Mon Nov 25 20:45:14 2024] ERROR: Connection failed. Please make sure the server is running. Error code: 61
+[Mon Nov 25 20:45:14 2024] Application exiting.
+[Tue Nov 26 11:03:31 2024] Application started.
